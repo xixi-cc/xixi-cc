@@ -1,10 +1,11 @@
 # Xineng Cao
 
-Physics researcher working across active matter, field theory, machine learning, robotics, and research tooling.
+I study physics at Nanjing University. Here are my notes, reading, and research tools.
 
 ## Research sites
 
-- [Personal homepage / Xixi Research Atlas](https://xixi-cc.github.io/) — research profile and project index
-- [Paper Collection](https://xixi-cc.github.io/paper-collection/) — searchable long-term literature collection
-- [physics+AI Daily Paper Cards](https://xixi-cc.github.io/daily-article-card/) — Codex-curated daily paper cards with full-text evidence
-
+- [personal homepage](https://xixi-cc.github.io/) — personal CV and blog
+- [Paper Collection](https://xixi-cc.github.io/paper-collection/) — personal literature library
+- [physics+AI Daily Paper Cards](https://xixi-cc.github.io/daily-article-card/) — arxiv daily paper cards
+- [物译](https://xixi-cc.github.io/physai-translation/) — Chinese translations of physics books and papers
+- [文献精读分享](https://xixi-cc.github.io/article-share/) — paper reading and presentation slides
