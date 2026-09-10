@@ -1,6 +1,6 @@
 # Xineng Cao
 
-I study physics at Nanjing University. Here are my notes, reading, and research tools.
+I am a master's student in physics at Nanjing University, specializing in nonequilibrium statistical physics.
 
 ## Research sites
 
