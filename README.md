@@ -1,6 +1,6 @@
 # Xineng Cao
 
-I am a master's student in physics at Nanjing University, specializing in nonequilibrium statistical physics.
+I am a master in physics at Nanjing University, specializing in nonequilibrium statistical physics.
 
 ## Websites
 
